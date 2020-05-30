@@ -40,7 +40,7 @@ State ,
 zip_code
 )
 
-values ('Tsega', 'Tefera', 'tsega492@gmail.com','301-793-7670','Silver Spring', 'MD', 20901)
+values ('kongit', 'wolde', 'koko492@gmail.com','301-793-7670','Silver Spring', 'MD', 20901)
 
 
---------you inserting values----------------
+--------kongit inserting values----------------
